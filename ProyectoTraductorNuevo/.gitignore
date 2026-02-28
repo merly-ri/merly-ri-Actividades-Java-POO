@@ -1,0 +1,10 @@
+# Carpetas de compilación
+bin/
+obj/
+
+# Archivos de usuario
+*.user
+*.suo
+
+# Archivos temporales
+*.log
