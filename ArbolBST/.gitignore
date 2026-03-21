@@ -1,0 +1,5 @@
+# Ignorar bin y obj en todo el proyecto
+bin/
+obj/
+**/bin/
+**/obj/
